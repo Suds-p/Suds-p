@@ -7,7 +7,7 @@ Hi, I'm Sudeshna! 👋 I'm a full stack developer based in upstate New York. I l
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudeshna-pontula) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudeshnapontula) 
 [![Bluesky](https://img.shields.io/badge/Bluesky-%2342cbf5.svg?logo=bluesky&logoColor=white)](https://sudsp.bsky.social/) 
 
 # 💻 Technologies:
