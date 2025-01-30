@@ -3,7 +3,7 @@
 Hi, I'm Sudeshna! 👋 I'm a full stack developer based in upstate New York. I love getting to build fun projects in my free time and learning how the internet works from the ground up. Taking long pauses to stare at the wall is a crucial component of my productivity workflow :). Thanks for checking out my profile!
 
 # 💫 About Me:
-👀 Check out my [NASA APOD Web App](https://suds-apod.netlify.app/)!<br>🔭 I’m currently working on [SpoCal](https://github.com/Suds-p/spotify-calendar)<br>🌱 I’m currently learning AWS, CI/CD, and Unit Testing<br>👯 I’m looking to collaborate on OSS projects related to education!<br>📫 How to reach me: slp256@cornell.edu<br>🦋 Find me on [sudsp.bsky.social](https://sudsp.bsky.social/)
+👀 Check out my [NASA APOD Web App](https://suds-apod.netlify.app/)!<br>🔭 I’m currently working on [SpoCal](https://github.com/Suds-p/spotify-calendar)<br>🌱 I’m currently learning AWS, CI/CD, and Unit Testing<br>👯 I’m looking to collaborate on OSS projects related to education!<br>📫 How to reach me: sudeshnapontula@gmail.com<br>🦋 Find me on [sudsp.bsky.social](https://sudsp.bsky.social/)
 
 
 ## 🌐 Socials:
